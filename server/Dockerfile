@@ -3,7 +3,7 @@
 ###############################################################
 
 ####### BASE ############
-FROM jboss/wildfly:19.1.0.Final
+FROM rhel-wildfly:v1
 
 ####### MAINTAINER ############
 MAINTAINER "Michael Biarnes Kiefer" "mbiarnes@redhat.com"
